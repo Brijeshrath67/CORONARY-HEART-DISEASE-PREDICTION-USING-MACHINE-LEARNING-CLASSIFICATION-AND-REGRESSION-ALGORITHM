@@ -1,6 +1,6 @@
 # CORONARY-HEART-DISEASE-PREDICTION-USING-MACHINE-LEARNING-CLASSIFICATION-AND-REGRESSION-ALGORITHM
 
-# ❤️ Coronary Heart Disease Prediction Using Machine Learning  
+# 🫀 Coronary Heart Disease Prediction Using Machine Learning  
 ### Classification & Regression Models with Exploratory Data Analysis
 
 <p align="center">
