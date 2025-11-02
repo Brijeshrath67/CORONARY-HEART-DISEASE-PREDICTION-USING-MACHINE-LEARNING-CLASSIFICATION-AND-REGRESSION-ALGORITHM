@@ -182,50 +182,15 @@ jupyter notebook
 
 ---
 
-## 📄 **.gitignore (Recommended)**
-
-Use this `.gitignore`:
-
-```
-# Python
-__pycache__/
-*.pyc
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Virtual environments
-venv/
-env/
-
-# System files
-.DS_Store
-Thumbs.db
-```
-
----
-
 ## 📘 **License**
-You can use any license; recommended:
-
-✅ **MIT License (simple and open)**  
-✅ OR GNU GPL v3 (if you want strong open-source rules)
-
-Example MIT License:
-
-```
-MIT License  
-Copyright (c) 2025 Brijesh Rath  
-Permission is hereby granted...
-```
+✅ **MIT License (simple and open)** 
 
 ---
 
 ## 🚀 **Future Improvements**
 - Add deep learning models (ANN)  
 - Deploy using Streamlit  
-- Build a responsive web app  
-- Use SHAP for model explainability  
+- Build a responsive web app   
 - Add real-time ECG-based features  
 
 ---
