@@ -1,0 +1,2 @@
+# CORONARY-HEART-DISEASE-PREDICTION-USING-MACHINE-LEARNING-CLASSIFICATION-AND-REGRESSION-ALGORITHM
+This project predicts Coronary Heart Disease (CHD) using machine learning classification and regression models. It includes complete exploratory data analysis (EDA), data preprocessing, feature engineering, and evaluates multiple ML algorithms such as Logistic Regression, Naïve Bayes, Decision Trees, Random Forest and etc.
