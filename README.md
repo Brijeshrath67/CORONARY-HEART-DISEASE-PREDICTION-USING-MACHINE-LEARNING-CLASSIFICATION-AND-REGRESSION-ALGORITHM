@@ -235,4 +235,17 @@ This project is created for academic learning, portfolio building, and practical
 
 ---
 
+👨‍💻 Author
+
+
+Brijesh Rath
+
+
+📧 Email: rathbrijesh2006@gmail.com
+
+
+💼 GitHub: (https://github.com/Brijeshrath67)
+
+--
+
 ## ⭐ **If you like this project, give it a star on GitHub!**
